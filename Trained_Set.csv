@@ -1,0 +1,26 @@
+Text,Tag,Markers
+"A BufferedMessage contains an MqttWire Message and token it allows both message and token to be buffered when the client is in resting state BufferedMessage()",related:Comprehensive,training_set_csv
+replace it with array for moe efficiency ShapeGenerator(),outdated,training_set_csv
+same as NoSuchElementException peek(),short:not readable,training_set_csv
+"Creates an object composed of keys generated from the results of runningeach element of `collection` thru `iteratee`. The corresponding value ofeach key is the number of times the key was returned by `iteratee`. Theiteratee is invoked with one argument: (value). Aggregator Class",related:Comprehensive,training_set_csv
+returns 12 getSize(),not readable,training_set_csv
+set Data setData(),repetetive:short,training_set_csv
+"his class consists exclusively of static methods that operate on or returncollections.  It contains polymorphic algorithms that operate oncollections, ""wrappers"", which return a new collection backed by aspecified collection, and a few other odds and ends. Collections Class",related:Comprehensive,training_set_csv
+using port usingPort(int port),short:repetetive,training_set_csv
+http://www.link_to_jira/HERO-402 successfullyAttacked(),not readable,training_set_csv
+The Stack class represents a last-in-first-out stack of objects. Stack Class,related:Comprehensive,training_set_csv
+Appends the Fin flag and the OpCode appendFinAndOpCode(),repetetive,training_set_csv
+refer to a library class for more information. Identity(),not readable,training_set_csv
+execute a WebSocket Handshake WebSocketHandshake(),repetetive:short,training_set_csv
+"Implementation note: This implementation is a stable, adaptive, 116 * iterative mergesort that requires far fewer than n lg(n) comparisons 117 * when the input array is partially sorted, while offering the 118 * performance of a traditional mergesort when the input array is 119 * randomly ordered. sort()",related:Comprehensive,training_set_csv
+//*****FIX IT*****///// SimpleCodeMaker(),outdated,training_set_csv
+"This part need to be tested, do not use it in the main class. evaluateAccuracy()",outdated,training_set_csv
+I have commented this out cause it is producing errors. FindByLink(),outdated,training_set_csv
+Thanks t o b e n o i t . h e i n r i c h on fo rum . j a v a . s u n . com HTMLEncode(),irrelevant,training_set_csv
+initializer - a function that specifies initial locations for all vertices setInitializer(),related:Comprehensive,training_set_csv
+"Performs a modifier key press. Does not release the modifier key - subsequent interactions may assume it's kept pressed. Note that the modifier key is never released implicitly - either keyUp(theKey) or sendKeys(Keys.NULL) must be called to release the modifier. keyDown()",related:Comprehensive,training_set_csv
+Start Server RunTest(),irrelevant,training_set_csv
+written by Jack.s merge(),irrelevant,training_set_csv
+This method is not supported by this class Layout(),outdated,training_set_csv
+"Draws the edge e, whose endpoints are at (x1,y1) and (x2,y2), on the graphics context g. The Shape provided by the EdgeShapeFunction instance is scaled in the x-direction so that its width is equal to the distance between (x1,y1) and (x2,y2). drawSimpleEdge()",Comprehensive:related,training_set_csv
+this will cause error,outdated,inbox:vida_abdollahi
